@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!162 &1
+EditorUserSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 4
+  m_ConfigSettings:
+    RecentlyUsedScenePath-0:
+      value: 22424703114646643d021925192d4c5f21121a0d00012820383d5200e1e53a3df1a805e8ea2a33390a01ea3201701431fb1e10
+      flags: 0
+    RecentlyUsedScenePath-1:
+      value: 224247031146466420173c301f295a13025827192f2d28353e663e3febe53a2ccae822faf7352b722c0ce6281d
+      flags: 0
+    RecentlyUsedScenePath-2:
+      value: 224247031146466420173c301f295a13025827192f2d28353e66353cf6f32437f6c43ae0e2342b722c0ce6281d
+      flags: 0
+    RecentlyUsedScenePath-3:
+      value: 224247031146466420173c301f295a13025827192f2d28353e662936f1f47b10edf325f9e82e1c303007e1284a2b0f36e613
+      flags: 0
+    RecentlyUsedScenePath-4:
+      value: 224247031146466420173c301f295a13025827192f2d28353e662936f1f47b10edf305f9e82e0b392a16a1290a371526
+      flags: 0
+    RecentlyUsedScenePath-5:
+      value: 22424703114646643d021925192d4c5f32160a216c1d0f7f09280f38d7c97a2decee22f0
+      flags: 0
+    RecentlyUsedScenePath-6:
+      value: 22424703114646643d021925192d4c5f3b160a213f093523283d0e7cc4f53834f1e424ece23408393b25c373373d0431f719462de3070618121cf80b1fc8151136e956d014c10b05
+      flags: 0
+    RecentlyUsedScenePath-7:
+      value: 224247031146466420173c301f295a13025827192f2d28353e663e00cfdf073be7e933b9b6742a323016f6
+      flags: 0
+    RecentlyUsedScenePath-8:
+      value: 224247031146466420173c301f295a13025827192f2d28353e662936f1f47b1deff722f0d4393a323c4cfa320d2a18
+      flags: 0
+    RecentlyUsedScenePath-9:
+      value: 224247031146466420173c301f295a13025827192f2d28353e661a1fede73d36acf238e0f323
+      flags: 0
+    vcSharedLogLevel:
+      value: 0d5e400f0650
+      flags: 0
+  m_VCAutomaticAdd: 1
+  m_VCDebugCom: 0
+  m_VCDebugCmd: 0
+  m_VCDebugOut: 0
+  m_SemanticMergeMode: 2
+  m_VCShowFailedCheckout: 1
+  m_VCOverwriteFailedCheckoutAssets: 1
+  m_VCProjectOverlayIcons: 1
+  m_VCHierarchyOverlayIcons: 1
+  m_VCOtherOverlayIcons: 1
+  m_VCAllowAsyncUpdate: 0
