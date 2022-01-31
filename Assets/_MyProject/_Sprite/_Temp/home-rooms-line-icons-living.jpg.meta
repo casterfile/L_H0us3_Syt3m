@@ -1,0 +1,524 @@
+fileFormatVersion: 2
+guid: 7415327e6dd35384e9b6fa24cc245973
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -549284584875652111
+    second: home-rooms-line-icons-living_0
+  - first:
+      213: 771476391596578774
+    second: home-rooms-line-icons-living_1
+  - first:
+      213: 1560807817693186134
+    second: home-rooms-line-icons-living_2
+  - first:
+      213: -3186995563199200080
+    second: home-rooms-line-icons-living_3
+  - first:
+      213: -216065383287075127
+    second: home-rooms-line-icons-living_4
+  - first:
+      213: -1764833836089186449
+    second: home-rooms-line-icons-living_5
+  - first:
+      213: -1099354208312253678
+    second: home-rooms-line-icons-living_6
+  - first:
+      213: 5454024492105948850
+    second: home-rooms-line-icons-living_7
+  - first:
+      213: 3451809589338195530
+    second: home-rooms-line-icons-living_8
+  - first:
+      213: -6395986260698351024
+    second: home-rooms-line-icons-living_9
+  - first:
+      213: 338324465440685249
+    second: home-rooms-line-icons-living_10
+  - first:
+      213: -6566538866130499181
+    second: home-rooms-line-icons-living_11
+  - first:
+      213: -2426539088812888743
+    second: home-rooms-line-icons-living_12
+  - first:
+      213: 2912292601435512567
+    second: home-rooms-line-icons-living_13
+  - first:
+      213: 2188312020915989411
+    second: home-rooms-line-icons-living_14
+  - first:
+      213: 3613846292844392112
+    second: home-rooms-line-icons-living_15
+  - first:
+      213: 6270478606468014379
+    second: home-rooms-line-icons-living_16
+  - first:
+      213: -656491253023261677
+    second: home-rooms-line-icons-living_17
+  - first:
+      213: 8598152184417637331
+    second: home-rooms-line-icons-living_18
+  - first:
+      213: 6618987032401138507
+    second: home-rooms-line-icons-living_19
+  - first:
+      213: -8837319492938095123
+    second: home-rooms-line-icons-living_20
+  - first:
+      213: -2404415611893328867
+    second: home-rooms-line-icons-living_21
+  - first:
+      213: -6070132063980469250
+    second: home-rooms-line-icons-living_22
+  - first:
+      213: 7375804008224213949
+    second: home-rooms-line-icons-living_23
+  - first:
+      213: -5887577433769060954
+    second: home-rooms-line-icons-living_24
+  - first:
+      213: -7166017418092259898
+    second: home-rooms-line-icons-living_25
+  - first:
+      213: 2372266771425811695
+    second: home-rooms-line-icons-living_26
+  - first:
+      213: 4026233801864269870
+    second: home-rooms-line-icons-living_27
+  - first:
+      213: 4133491352162005196
+    second: home-rooms-line-icons-living_28
+  - first:
+      213: -6004616238070816944
+    second: home-rooms-line-icons-living_29
+  - first:
+      213: -919036680845688284
+    second: home-rooms-line-icons-living_30
+  - first:
+      213: -2640544179903120075
+    second: home-rooms-line-icons-living_31
+  - first:
+      213: 1909869456390071475
+    second: home-rooms-line-icons-living_32
+  - first:
+      213: 281555998665854226
+    second: home-rooms-line-icons-living_33
+  - first:
+      213: 2431578003010419716
+    second: home-rooms-line-icons-living_34
+  - first:
+      213: 5353236690290429403
+    second: home-rooms-line-icons-living_35
+  - first:
+      213: 2079362492145296140
+    second: home-rooms-line-icons-living_36
+  - first:
+      213: 2156717601534913217
+    second: home-rooms-line-icons-living_37
+  - first:
+      213: 5100202357547134377
+    second: home-rooms-line-icons-living_38
+  - first:
+      213: -5828130272052574828
+    second: home-rooms-line-icons-living_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 81, y: 637, z: 1320, w: 50}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: 0
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: home-rooms-line-icons-living_0
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 718
+        width: 200
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: -83}
+        - {x: 28, y: -21}
+        - {x: 46, y: -21}
+        - {x: 46, y: -83}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb83ed849c8068f0800000000000000
+      internalID: -549284584875652111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: home-rooms-line-icons-living_1
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 716
+        width: 200
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7d6b1d0b5d4ba00800000000000000
+      internalID: 771476391596578774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: home-rooms-line-icons-living_2
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 718
+        width: 200
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6584140d07a19a510800000000000000
+      internalID: 1560807817693186134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: home-rooms-line-icons-living_3
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 718
+        width: 200
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b404c2bb6485c3d0800000000000000
+      internalID: -3186995563199200080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: home-rooms-line-icons-living_4
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 418
+        width: 200
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce4aecbda1600df0800000000000000
+      internalID: -216065383287075127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: home-rooms-line-icons-living_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 418
+        width: 200
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6760500afc0287e0800000000000000
+      internalID: -1764833836089186449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: home-rooms-line-icons-living_6
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 418
+        width: 200
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213a7331c2f4eb0f0800000000000000
+      internalID: -1099354208312253678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: home-rooms-line-icons-living_7
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 418
+        width: 200
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be5140016690bb40800000000000000
+      internalID: 5454024492105948850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: home-rooms-line-icons-living_8
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 118
+        width: 200
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a464ac4788a47ef20800000000000000
+      internalID: 3451809589338195530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: home-rooms-line-icons-living_9
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 118
+        width: 200
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05abbce1264ec37a0800000000000000
+      internalID: -6395986260698351024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: home-rooms-line-icons-living_10
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 118
+        width: 200
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc7a6d0f48f1b400800000000000000
+      internalID: 338324465440685249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: home-rooms-line-icons-living_11
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 118
+        width: 200
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399ce7831b7fed4a0800000000000000
+      internalID: -6566538866130499181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: -800, y: 459}
+      - {x: -800, y: -459}
+      - {x: 800, y: -459}
+      - {x: 800, y: 459}
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
